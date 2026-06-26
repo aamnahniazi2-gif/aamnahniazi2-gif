@@ -12,7 +12,7 @@ I am a **Software Engineering Student** at Bahria University, a **Full-Stack Dev
 * 🏆 **Recent Milestone:** Winner of the *Best Research-in-Progress* award at Conf-IRM 2026 for **ZKBioVault** (Secure Biometric Info Management).
 * 💼 **Experience:** Interned across diverse software engineering and cybersecurity roles at Decode Labs, Nexsoft Solutions, Optimus Automate, and CodeBase Studio.
 * 💬 **Ask me about:** Next.js, React, Node.js, Cloud/DevOps, Cryptography, GSAP, and Framer Motion.
-* 📧 **How to reach me:** [your-email@domain.com](aamnahniazi220@gmail.com.com)
+* 📧 **How to reach me:** [your-email@domain.com](aamnahniazi220@gmail.com)
 
 ---
 
