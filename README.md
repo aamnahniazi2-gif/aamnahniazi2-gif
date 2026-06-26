@@ -15,6 +15,6 @@ I am a **Software Engineering Student** at Bahria University, a **Full-Stack Dev
 * 📧 **How to reach me:** (aamnahniazi220@gmail.com)
 
 ---
-
+![Instagram Badge](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge)
 
 "Software architecture is the art of drawing lines between things that don't belong together." — Robert C. Martin
